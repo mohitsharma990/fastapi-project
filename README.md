@@ -76,21 +76,3 @@ docker-compose up --build
 4. Include environment variables
 
 ---
-
-## 🤝 Contributing
-
-Feel free to fork this repo, open issues, and submit pull requests.
-
----
-
-## 👨‍💻 Author
-
-Made with ❤️ by Misbah
-
----
-
-## 😇 Connect
-
-Feel free to connect:
-- [Email](mailto:misbahullahsheriff@gmail.com)
-- [LinkedIN](https://www.linkedin.com/in/mohammed-misbahullah-sheriff/)
